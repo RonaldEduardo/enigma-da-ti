@@ -1,0 +1,12 @@
+// Fragment Alpha
+// Location: Tree Memory Storage
+// Status: Partial
+
+const memory = {
+    branches: [],
+    conflicts: true,
+    timeTravel: function() {
+        // G... something starts here
+        return "G";
+    }
+};
