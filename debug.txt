@@ -1,0 +1,10 @@
+LOGS DO SISTEMA
+===============
+
+[ERROR] Falha na conexão
+[INFO] Carregando módulos...
+[DEBUG] Sequência incorreta detectada: I-G-T 
+[WARN] Ordem correta deve ser: ?-?-?
+[INFO] Consulte fragmento1.txt para início
+[INFO] Terminal.md tem o final
+[SUCCESS] Sistema operacional reconhecido
