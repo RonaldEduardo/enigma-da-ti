@@ -1,0 +1,11 @@
+A resposta não é GIT.
+A resposta não é TIG.  
+A resposta não é ITG.
+
+Mas uma dessas está quase certa...
+
+Dica: O que você usa para versionar código?
+Dica: Tem 3 letras
+Dica: Rima com "hit"
+
+PS: Ignore a ordem em debug.txt - está errada de propósito.
