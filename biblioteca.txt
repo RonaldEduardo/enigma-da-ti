@@ -1,0 +1,22 @@
+=====================================
+    BIBLIOTECA DE ALEXANDRIA 2.0
+=====================================
+
+A maior coleção de respostas para programadores perdidos.
+
+SOBRE O SISTEMA:
+- Nome: Sistema de Perguntas e Respostas
+- Função: Salvação digital diária  
+- Usuários: Milhões de desenvolvedores desesperados
+
+COMO FUNCIONA:
+1. Desenvolvedor tem problema
+2. Pesquisa no sistema
+3. Encontra resposta (quase sempre)
+4. Copia código sem entender
+5. Funciona (milagre diário)
+
+TERCEIRA PARTE: FLOW
+(Como em "fluxo" de perguntas e respostas)
+
+PALAVRA COMPLETA: [PRIMEIRA]_[SEGUNDA]_[TERCEIRA]
