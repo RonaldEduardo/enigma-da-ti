@@ -20,6 +20,18 @@ public class BaseConhecimento {
     }
     
     public ResultadoBusca encontrarResposta(String pergunta) {
-        return motorBusca.buscar(pergunta);
+        ResultadoBusca resultado = motorBusca.buscar(pergunta);
+        
+        if (resultado.temRespostas()) {
+            logarConsultaSuccesso(pergunta);
+            return resultado;
+        } else {
+            return tratarSemResultados(pergunta);
+        }
+    }
+    
+    private ResultadoBusca tratarSemResultados(String pergunta) {
+        // Quando não há respostas diretas, sugere perguntas relacionadas
+        return motorBusca.encontrarSimilares(pergunta);
     }
 }
