@@ -20,6 +20,18 @@ public class KnowledgeBase {
     }
     
     public SearchResult findAnswer(String question) {
-        return searchEngine.search(question);
+        SearchResult result = searchEngine.search(question);
+        
+        if (result.hasAnswers()) {
+            logSuccessfulQuery(question);
+            return result;
+        } else {
+            return handleNoResults(question);
+        }
+    }
+    
+    private SearchResult handleNoResults(String question) {
+        // When no direct answers found, suggest related questions
+        return searchEngine.findSimilar(question);
     }
 }
