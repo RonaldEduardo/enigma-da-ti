@@ -1,36 +1,36 @@
-// Error Handler System
-// Status: Under development
-// Purpose: Handle syntax errors in development environment
+// Sistema Tratador de Erros
+// Status: Em desenvolvimento
+// Propósito: Tratar erros de sintaxe no ambiente de desenvolvimento
 
-class ErrorHandler {
+class TratadorErros {
     
-    public void processError(String errorType) {
-        switch(errorType) {
-            case "syntax":
-                handleSyntaxError();
+    public void processarErro(String tipoErro) {
+        switch(tipoErro) {
+            case "sintaxe":
+                tratarErroSintaxe();
                 break;
-            case "runtime":
-                handleRuntimeError();
+            case "execucao":
+                tratarErroExecucao();
                 break;
             default:
-                handleUnknownError();
+                tratarErroDesconhecido();
         }
     }
     
-    private void handleSyntaxError() {
-        // TODO: Fix the underlying issue causing 6-hour debugging sessions
-        logError("Syntax error detected - typically semicolon missing");
-        reportToMetrics("error_type", "syntax");
+    private void tratarErroSintaxe() {
+        // TODO: Corrigir problema que causa sessões de debug de 6 horas
+        logarErro("Erro de sintaxe detectado - geralmente ponto e vírgula ausente");
+        reportarMetricas("tipo_erro", "sintaxe");
     }
     
-    private void reportToMetrics(String category, String type) {
-        // Generate metrics report
-        System.out.println("Metrics: " + category + " = " + type);
-        incrementErrorCount(type);
+    private void reportarMetricas(String categoria, String tipo) {
+        // Gerar relatório de métricas
+        System.out.println("Métricas: " + categoria + " = " + tipo);
+        incrementarContadorErros(tipo);
     }
     
-    private void incrementErrorCount(String errorType) {
-        // Track error frequency for analysis
-        MetricsCollector.increment("error." + errorType);
+    private void incrementarContadorErros(String tipoErro) {
+        // Rastrear frequência de erros para análise
+        ColetorMetricas.incrementar("erro." + tipoErro);
     }
 }
