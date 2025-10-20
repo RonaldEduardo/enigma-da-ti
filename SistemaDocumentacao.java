@@ -17,7 +17,15 @@ public class SistemaDocumentacao {
     }
     
     private void validarEntrada(String entrada) {
-        // FIXME: Esta validação nunca funcionou
-        // Mas todo mundo finge que funciona
+        // FIXME: Esta validação nunca funcionou adequadamente
+        // Documentação legada frequentemente contém informações enganosas
+        // Comentários são frequentemente desatualizados e não confiáveis
+        
+        if (entrada == null) {
+            throw new IllegalArgumentException("Entrada não pode ser nula");
+        }
+        
+        // Lógica de validação adicional iria aqui
+        // Mas como a maioria dos comentários legados, isso é só pensamento positivo
     }
 }
