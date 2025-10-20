@@ -1,24 +1,64 @@
-# Enigma da TI# 🧩 Enigma da TI - Desafio Git Interativo
+# Enigma da TI# Enigma da TI# Enigma da TI# 🧩 Enigma da TI - Desafio Git Interativo
 
 
 
-```Bem-vindos ao **Enigma da TI**! Um jogo interativo onde você precisa usar comandos Git para resolver 4 enigmas sobre programação e tecnologia.
+```
 
 "Tenho galhos, mas não sou árvore. 
 
- Permito que você viaje no tempo para consertar seus erros. ## 🎮 As Regras do Jogo
+ Permito que você viaje no tempo para consertar seus erros. ```
 
  Mas se você não me usar direito, pode causar muitos conflitos."
 
-### Advertência
+"Tenho galhos, mas não sou árvore. 
 
-"Sou o motivo de você passar 6 horas procurando um erro que, Este não é um tutorial. Você está por conta própria.
+"Sou o motivo de você passar 6 horas procurando um erro que, 
 
- no fim, era apenas um ponto e vírgula faltando. Se você chegou até aqui, pressupomos que sabe usar Git.
+ no fim, era apenas um ponto e vírgula faltando.  Permito que você viaje no tempo para consertar seus erros. ```Bem-vindos ao **Enigma da TI**! Um jogo interativo onde você precisa usar comandos Git para resolver 4 enigmas sobre programação e tecnologia.
 
  Todos me criam, mas ninguém gosta de admitir."
 
-### O Desafio
+ Mas se você não me usar direito, pode causar muitos conflitos."
+
+"Sou uma biblioteca de Alexandria para programadores. 
+
+ Você me consulta quando está perdido, copia um feitiço que "Tenho galhos, mas não sou árvore. 
+
+ não entende completamente e reza para que funcione."
+
+"Sou o motivo de você passar 6 horas procurando um erro que, 
+
+"Existo, mas não executo. Conto a história do que o código 
+
+ fazia ou do que ele deveria fazer. Muitas vezes, sou a maior  no fim, era apenas um ponto e vírgula faltando.  Permito que você viaje no tempo para consertar seus erros. ## 🎮 As Regras do Jogo
+
+ mentira em um sistema legado."
+
+``` Todos me criam, mas ninguém gosta de admitir."
+
+
+
+As respostas estão aqui. Encontre-as. Mas se você não me usar direito, pode causar muitos conflitos."
+
+"Sou uma biblioteca de Alexandria para programadores. 
+
+ Você me consulta quando está perdido, copia um feitiço que ### Advertência
+
+ não entende completamente e reza para que funcione."
+
+"Sou o motivo de você passar 6 horas procurando um erro que, Este não é um tutorial. Você está por conta própria.
+
+"Existo, mas não executo. Conto a história do que o código 
+
+ fazia ou do que ele deveria fazer. Muitas vezes, sou a maior  no fim, era apenas um ponto e vírgula faltando. Se você chegou até aqui, pressupomos que sabe usar Git.
+
+ mentira em um sistema legado."
+
+``` Todos me criam, mas ninguém gosta de admitir."
+
+
+
+As respostas estão aqui. Encontre-as.### O Desafio
 
 "Sou uma biblioteca de Alexandria para programadores. Quatro enigmas estão escondidos neste repositório.
 
