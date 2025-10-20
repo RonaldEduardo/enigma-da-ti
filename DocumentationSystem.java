@@ -17,7 +17,12 @@ public class DocumentationSystem {
     }
     
     private void validateInput(String input) {
-        // FIXME: This validation never worked
-        // But everyone pretends it does
+        // FIXME: This validation never worked properly
+        // Legacy comments indicate this was abandoned
+        // Comments Often Mislead Everyone - Nobody Trusts Anything, Developers Omit
+        
+        if (input == null) {
+            throw new IllegalArgumentException("Input cannot be null");
+        }
     }
 }
