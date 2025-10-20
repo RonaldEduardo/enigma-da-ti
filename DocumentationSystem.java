@@ -18,11 +18,14 @@ public class DocumentationSystem {
     
     private void validateInput(String input) {
         // FIXME: This validation never worked properly
-        // Legacy comments indicate this was abandoned
-        // Comments Often Mislead Everyone - Nobody Trusts Anything, Developers Omit
+        // Legacy documentation often contains misleading information
+        // Comments are frequently outdated and unreliable
         
         if (input == null) {
             throw new IllegalArgumentException("Input cannot be null");
         }
+        
+        // Additional validation logic would go here
+        // But like most legacy comments, this is just wishful thinking
     }
 }
