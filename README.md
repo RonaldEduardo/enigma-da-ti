@@ -1,7 +1,6 @@
 # Enigma da TI# Enigma da TI# Enigma da TI# 🧩 Enigma da TI - Desafio Git Interativo
 
 
-
 ```
 
 "Tenho galhos, mas não sou árvore. 
