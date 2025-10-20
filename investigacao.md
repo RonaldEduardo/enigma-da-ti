@@ -1,12 +1,19 @@
-# Sistema de Versionamento
+# Log de Desenvolvimento
 
-## Análise de Estrutura
+**Problema identificado:** Falha sistemática no código
+**Frequência:** Diária
+**Impacto:** Alto (desenvolvedores frustrados)
 
-Este projeto utiliza uma ferramenta de controle que possui:
-- Ramificações (branches)
-- Histórico de mudanças
-- Capacidade de voltar no tempo
-- Gerenciamento de conflitos
+## Histórico de Ocorrências:
 
-Para descobrir o nome desta ferramenta, investigue o histórico de commits.
-Use comandos apropriados para encontrar as informações ocultas.
+```
+10:00 - Código funcionando
+10:30 - Pequena alteração
+10:31 - Erro inexplicável aparece  
+16:30 - Descoberto: faltava ;
+16:31 - Desenvolvedor admite reluctantemente...
+```
+
+**Segundo caractere identificado: U**
+
+**Investigação continua em arquivo_escondido.txt**

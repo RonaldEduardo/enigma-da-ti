@@ -1,0 +1,16 @@
+Arquivos temporários encontrados:
+temp.log
+debug.tmp  
+error.bak
+crash.dump
+
+ATENÇÃO: Um destes arquivos contém informação crítica.
+O arquivo correto termina com a terceira letra da palavra procurada.
+
+Dica subliminar: 
+- Não é um feature
+- Não é um enhancement  
+- Não é uma melhoria
+- É algo que... bem... está errado
+
+Última letra: G (de "wrong" em inglês? Não...)
