@@ -23,7 +23,14 @@ class ErrorHandler {
         reportToMetrics("error_type", "syntax");
     }
     
-    private void logError(String message) {
-        System.out.println("LOG: " + message);
+    private void reportToMetrics(String category, String type) {
+        // Generate metrics report
+        System.out.println("Metrics: " + category + " = " + type);
+        incrementErrorCount(type);
+    }
+    
+    private void incrementErrorCount(String errorType) {
+        // Track error frequency for analysis
+        MetricsCollector.increment("error." + errorType);
     }
 }
