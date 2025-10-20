@@ -18,8 +18,9 @@ class ErrorHandler {
     }
     
     private void handleSyntaxError() {
-        // Implementation needed
-        logError("Syntax error detected");
+        // TODO: Fix the underlying issue causing 6-hour debugging sessions
+        logError("Syntax error detected - typically semicolon missing");
+        reportToMetrics("error_type", "syntax");
     }
     
     private void logError(String message) {
