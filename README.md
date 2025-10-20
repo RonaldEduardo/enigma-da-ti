@@ -1,24 +1,44 @@
-# Enigma da TI# Enigma da TI
+# Enigma da TI# Enigma da TI# Enigma da TI
 
 
 
-``````
+```
+
+"Tenho galhos, mas não sou árvore. 
+
+ Permito que você viaje no tempo para consertar seus erros. ``````
+
+ Mas se você não me usar direito, pode causar muitos conflitos."
 
 "Tenho galhos, mas não sou árvore. "Tenho galhos, mas não sou árvore. 
 
- Permito que você viaje no tempo para consertar seus erros.  Permito que você viaje no tempo para consertar seus erros. 
+"Sou o motivo de você passar 6 horas procurando um erro que, 
+
+ no fim, era apenas um ponto e vírgula faltando.  Permito que você viaje no tempo para consertar seus erros.  Permito que você viaje no tempo para consertar seus erros. 
+
+ Todos me criam, mas ninguém gosta de admitir."
 
  Mas se você não me usar direito, pode causar muitos conflitos." Mas se você não me usar direito, pode causar muitos conflitos."
 
+"Sou uma biblioteca de Alexandria para programadores. 
 
+ Você me consulta quando está perdido, copia um feitiço que 
+
+ não entende completamente e reza para que funcione."
 
 "Sou o motivo de você passar 6 horas procurando um erro que, "Sou o motivo de você passar 6 horas procurando um erro que, 
 
- no fim, era apenas um ponto e vírgula faltando.  no fim, era apenas um ponto e vírgula faltando. 
+"Existo, mas não executo. Conto a história do que o código 
 
- Todos me criam, mas ninguém gosta de admitir." Todos me criam, mas ninguém gosta de admitir."
+ fazia ou do que ele deveria fazer. Muitas vezes, sou a maior  no fim, era apenas um ponto e vírgula faltando.  no fim, era apenas um ponto e vírgula faltando. 
+
+ mentira em um sistema legado."
+
+``` Todos me criam, mas ninguém gosta de admitir." Todos me criam, mas ninguém gosta de admitir."
 
 
+
+As respostas estão aqui. Encontre-as.
 
 "Sou uma biblioteca de Alexandria para programadores. "Sou uma biblioteca de Alexandria para programadores. 
 
