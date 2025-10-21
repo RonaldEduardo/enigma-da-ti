@@ -2,9 +2,8 @@
 
 
 🌳 "Tenho galhos, mas não sou árvore. 
-
-As respostas estão aqui. Encontre-as.   Permito que você viaje no tempo para consertar seus erros. 
-   Mas se você não me usar direito, pode causar muitos conflitos."
+    Permito que você viaje no tempo para consertar seus erros. 
+    Mas se você não me usar direito, pode causar muitos conflitos."
 
 🐛 "Sou o motivo de você passar 6 horas procurando um erro que, 
    no fim, era apenas um ponto e vírgula faltando. 
