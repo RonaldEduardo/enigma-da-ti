@@ -1,10 +1,6 @@
 # Enigma da TI# Enigma da TI# Enigma da TI# 🧩 Enigma da TI - Desafio Git Interativo
 
 
-```
-
-``````
-
 🌳 "Tenho galhos, mas não sou árvore. 
 
 As respostas estão aqui. Encontre-as.   Permito que você viaje no tempo para consertar seus erros. 
@@ -21,4 +17,3 @@ As respostas estão aqui. Encontre-as.   Permito que você viaje no tempo para c
 💬 "Existo, mas não executo. Conto a história do que o código 
    fazia ou do que ele deveria fazer. Muitas vezes, sou a maior 
    mentira em um sistema legado."
-```
